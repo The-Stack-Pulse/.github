@@ -1,6 +1,8 @@
+<p align="center">
+  <img height="180px" src="https://github.com/user-attachments/assets/68a4fe95-57dc-4a75-ba71-3ac29a63c323" />
+</p>
 
-
-## Hi there 👋
+# Hi there 👋
 
 Welcome to The Stack Pulse – we simplify hospitality tech, one beat at a time.  ￼
 
